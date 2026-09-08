@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,figma" />
 
 ### 📊 My stats
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=polabug&show_icons=true&theme=radical)
+
 
 ![Paula's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=polabug&theme=radical)
 
