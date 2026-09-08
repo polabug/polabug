@@ -10,5 +10,7 @@
 
 ![Paula's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=polabug&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polabug&layout=compact&theme=radical)
+
 ### Let us connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-garza-aranda/)
