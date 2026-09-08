@@ -1,6 +1,9 @@
 ### 👋 Hi I'm Paula Garza
 
-🐸 Designer and developer, currently training as a Java Full Stack Developer.🐸 
+🐸 Designer and developer, currently training as a Java Full Stack Developer.
+
+💻 I am interested to learn and combine my design skills with programming, to create websites that are both functional and attractive.
+🔬 I have a keen interest in research and technology, which I like to complement with my artistic skills.
 
 
 
