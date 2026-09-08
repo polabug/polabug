@@ -2,6 +2,8 @@
 
 🐸 Designer and developer, currently training as a Java Full Stack Developer.🐸 
 
+
+
 ### 🛠️ What I work with
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,figma" />
 
